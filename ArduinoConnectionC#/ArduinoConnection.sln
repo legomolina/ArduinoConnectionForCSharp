@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoConnection", "ArduinoConnection.csproj", "{47C7D161-0132-4B14-836B-465AE75393A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedExample", "AdvancedExample\AdvancedExample.csproj", "{345BC2C3-011D-43CF-B1DB-00033EEF61CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicExample", "BasicExample\BasicExample.csproj", "{70C06890-69C2-4E75-A9DE-E299FCAC9185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{47C7D161-0132-4B14-836B-465AE75393A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47C7D161-0132-4B14-836B-465AE75393A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47C7D161-0132-4B14-836B-465AE75393A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345BC2C3-011D-43CF-B1DB-00033EEF61CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345BC2C3-011D-43CF-B1DB-00033EEF61CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345BC2C3-011D-43CF-B1DB-00033EEF61CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345BC2C3-011D-43CF-B1DB-00033EEF61CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C06890-69C2-4E75-A9DE-E299FCAC9185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C06890-69C2-4E75-A9DE-E299FCAC9185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C06890-69C2-4E75-A9DE-E299FCAC9185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C06890-69C2-4E75-A9DE-E299FCAC9185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
