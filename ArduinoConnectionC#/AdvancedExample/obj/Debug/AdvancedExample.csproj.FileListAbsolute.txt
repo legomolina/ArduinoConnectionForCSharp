@@ -1,0 +1,9 @@
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\bin\Debug\AdvancedExample.exe.config
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\bin\Debug\AdvancedExample.exe
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\bin\Debug\AdvancedExample.pdb
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\bin\Debug\ArduinoConnection.dll
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\bin\Debug\ArduinoConnection.pdb
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.csprojResolveAssemblyReference.cache
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.csproj.CoreCompileInputs.cache
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.exe
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.pdb

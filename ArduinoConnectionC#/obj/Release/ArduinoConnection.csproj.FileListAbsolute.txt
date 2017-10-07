@@ -1,0 +1,5 @@
+F:\Mis documentos\Projects\ArduinoConnectionC#\bin\Release\ArduinoConnection.dll
+F:\Mis documentos\Projects\ArduinoConnectionC#\bin\Release\ArduinoConnection.pdb
+F:\Mis documentos\Projects\ArduinoConnectionC#\obj\Release\ArduinoConnection.csproj.CoreCompileInputs.cache
+F:\Mis documentos\Projects\ArduinoConnectionC#\obj\Release\ArduinoConnection.dll
+F:\Mis documentos\Projects\ArduinoConnectionC#\obj\Release\ArduinoConnection.pdb

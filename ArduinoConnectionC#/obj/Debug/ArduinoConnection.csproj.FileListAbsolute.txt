@@ -1,0 +1,6 @@
+F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\bin\Debug\ArduinoConnection.dll
+F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\bin\Debug\ArduinoConnection.pdb
+F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\obj\Debug\ArduinoConnection.dll
+F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\obj\Debug\ArduinoConnection.pdb
+F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\obj\Debug\ArduinoConnection.csprojResolveAssemblyReference.cache
+F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\obj\Debug\ArduinoConnection.csproj.CoreCompileInputs.cache
