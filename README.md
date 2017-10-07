@@ -1,6 +1,9 @@
 # Arduino Connection For C#
 Arduino connection for C# is a *C#* and *ino* library that work together to facilitate the data transmission between an Arduino board and PC program.
 
+## Dll
+If you don't want to download all project and just want the dll you can obtain it from [here](https://github.com/legomolina/ArduinoConnectionForCSharp/tree/master/Dll/ArduinoConnection.dll) or from [NuGet](https://www.nuget.org/packages/ArduinoConnectionForCSharp/1.0.0).
+
 ## Code 
 The code is separated in two folders:
 - ArduinoConnectionC# contains the full C# code as well as the C# code for the examples. Just load the solution in Visual Studio and check the projects.
