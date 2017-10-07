@@ -31,7 +31,7 @@ namespace AdvancedExample {
             //Start the connection
             connection.Start();
 
-            while(true) {
+            while (true) {
                 SendData(1);
 
                 //Don't worry about sleeping this thread, connection has its own thread
@@ -65,17 +65,17 @@ namespace AdvancedExample {
         }
 
         public static void Main(string[] args) {
-            new Program();
-
             //Check for console closing event
             SetConsoleCtrlHandler(new HandlerRoutine(ConsoleCtrlCheck), true);
+
+            new Program();
 
             while (!isClosing) ;
         }
 
         /* This code is for handle the console close event */
         private static bool ConsoleCtrlCheck(CtrlTypes ctrlType) {
-            switch(ctrlType) {
+            switch (ctrlType) {
                 case CtrlTypes.CTRL_CLOSE_EVENT:
                     //I call SendData with the status 0
                     SendData(0);

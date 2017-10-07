@@ -4,3 +4,9 @@ F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection
 F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\obj\Debug\ArduinoConnection.pdb
 F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\obj\Debug\ArduinoConnection.csprojResolveAssemblyReference.cache
 F:\Mis documentos\Projects\iRacing_project\arduino_connection\arduino_connection\obj\Debug\ArduinoConnection.csproj.CoreCompileInputs.cache
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\bin\Debug\ArduinoConnection.dll
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\bin\Debug\ArduinoConnection.pdb
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.csprojResolveAssemblyReference.cache
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.csproj.CoreCompileInputs.cache
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.dll
+C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.pdb

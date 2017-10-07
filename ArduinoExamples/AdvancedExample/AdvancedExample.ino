@@ -1,5 +1,5 @@
 #define BAUD_RATE 9600
-#define SERIAL_READ_DATA_LENGTH = 4
+#define SERIAL_READ_DATA_LENGTH 4
 
 volatile bool connection = false;
 byte handshake[] = { 16, 4, 64, 32 };
