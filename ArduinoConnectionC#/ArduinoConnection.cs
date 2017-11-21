@@ -76,6 +76,9 @@ namespace ArduinoConnection {
                 if (!arduinoPort.IsOpen) {
                     OnArduinoDisconnected(this, new ConnectionEventArgs());
                     arduinoPort = ConnectPort();
+                    
+                    //Launch connected event
+                    OnArduinoConnected(this, new ConnectionEventArgs(finalPort));
                 }
 
                 Thread.Sleep(Constants.CheckDisconnectionThreadSleep);
@@ -164,9 +167,6 @@ namespace ArduinoConnection {
                     readHandshake = new Byte[4];
                 }
             }
-
-            //Launch connected event
-            OnArduinoConnected(this, new ConnectionEventArgs(finalPort));
 
             return finalPort;
         }
