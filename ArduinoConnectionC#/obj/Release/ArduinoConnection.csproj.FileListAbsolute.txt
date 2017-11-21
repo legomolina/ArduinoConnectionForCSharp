@@ -3,3 +3,9 @@ F:\Mis documentos\Projects\ArduinoConnectionC#\bin\Release\ArduinoConnection.pdb
 F:\Mis documentos\Projects\ArduinoConnectionC#\obj\Release\ArduinoConnection.csproj.CoreCompileInputs.cache
 F:\Mis documentos\Projects\ArduinoConnectionC#\obj\Release\ArduinoConnection.dll
 F:\Mis documentos\Projects\ArduinoConnectionC#\obj\Release\ArduinoConnection.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\bin\Release\ArduinoConnection.dll
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\bin\Release\ArduinoConnection.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Release\ArduinoConnection.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Release\ArduinoConnection.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Release\ArduinoConnection.dll
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Release\ArduinoConnection.pdb
