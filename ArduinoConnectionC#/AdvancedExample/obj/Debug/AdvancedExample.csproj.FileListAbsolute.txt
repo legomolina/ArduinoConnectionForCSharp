@@ -16,3 +16,12 @@ C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCShar
 C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.csproj.CoreCompileInputs.cache
 C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.exe
 C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\bin\Debug\AdvancedExample.exe.config
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\bin\Debug\AdvancedExample.exe
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\bin\Debug\AdvancedExample.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\bin\Debug\ArduinoConnection.dll
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\bin\Debug\ArduinoConnection.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.exe
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\AdvancedExample\obj\Debug\AdvancedExample.pdb

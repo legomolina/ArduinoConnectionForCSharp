@@ -78,7 +78,7 @@ namespace ArduinoConnection {
                     arduinoPort = ConnectPort();
                     
                     //Launch connected event
-                    OnArduinoConnected(this, new ConnectionEventArgs(finalPort));
+                    OnArduinoConnected(this, new ConnectionEventArgs(arduinoPort));
                 }
 
                 Thread.Sleep(Constants.CheckDisconnectionThreadSleep);

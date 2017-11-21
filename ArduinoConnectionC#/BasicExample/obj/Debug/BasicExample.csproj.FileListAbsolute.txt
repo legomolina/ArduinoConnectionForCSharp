@@ -1,0 +1,9 @@
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\bin\Debug\BasicExample.exe.config
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\bin\Debug\BasicExample.exe
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\bin\Debug\BasicExample.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\bin\Debug\ArduinoConnection.dll
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\bin\Debug\ArduinoConnection.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\obj\Debug\BasicExample.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\obj\Debug\BasicExample.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\obj\Debug\BasicExample.exe
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\BasicExample\obj\Debug\BasicExample.pdb

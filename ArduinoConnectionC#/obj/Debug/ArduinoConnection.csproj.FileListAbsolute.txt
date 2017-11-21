@@ -10,3 +10,9 @@ C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCShar
 C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.csproj.CoreCompileInputs.cache
 C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.dll
 C:\Users\Balbino\Documents\Visual Studio 2017\Projects\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\bin\Debug\ArduinoConnection.dll
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\bin\Debug\ArduinoConnection.pdb
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.dll
+C:\Users\Cristian Molina\Desktop\ArduinoConnectionForCSharp\ArduinoConnectionC#\obj\Debug\ArduinoConnection.pdb
